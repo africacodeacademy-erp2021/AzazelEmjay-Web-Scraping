@@ -1,0 +1,21 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "full.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "got": "^10.4.0",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^10.2.0",
+    "webscraper": "^0.1.0",
+    "website-scraper": "^4.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
